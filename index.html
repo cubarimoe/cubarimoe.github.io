@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>TangPing Scanlations</title>
+  <link rel="stylesheet" href="assets/site.css?v=1784896897">
+</head>
+<body style="--accent:#ff6740">
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Manga Catalogue</p>
+      <h1>TangPing Scanlations</h1>
+      <p class="hero-introduction">Read releases from Cubari.moe or view the series on MangaDex.<br>
+<br>
+<a href="https://shorturl.at/8jnUM" target="_blank" rel="noopener noreferrer"><strong>Donations</strong></a> / <a href="https://discord.gg/afkSENmHSy" target="_blank" rel="noopener noreferrer"><strong>Discord</strong></a> / <a href="https://mangadex.org/group/c5363518-3454-4094-8c05-0d97fda485d5/tangping-scanlations" target="_blank" rel="noopener noreferrer"><strong>MangaDex</strong></a> / <a href="https://www.mangaupdates.com/group/rvo16eq/tangping-scanlations" target="_blank" rel="noopener noreferrer"><strong>MangaUpdates</strong></a> / <a href="https://comick.dev/group/tang-ping-scanlations" target="_blank" rel="noopener noreferrer"><strong>Comick.dev</strong></a></p>
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="Search titles, tags, authors…" autocomplete="off">
+        <select id="sort" aria-label="Sort titles">
+          <option value="recent">Recently updated</option>
+          <option value="title">Title A–Z</option>
+          <option value="chapters">Most Cubari chapters</option>
+        </select>
+      </div>
+    </div>
+  </header>
+  <main>
+    <section id="tagPanel" class="tag-panel">
+      <div class="tag-panel-heading">
+        <div><p class="eyebrow small-eyebrow">FILTER</p><h2>Browse by tag</h2></div>
+        <button id="clearTags" class="clear-filter" type="button" hidden>Clear tags</button>
+      </div>
+      <div id="tagFilters" class="tag-filters" aria-label="Tag filters"></div>
+      <p id="tagEmpty" class="tag-empty" hidden>No tags are cached yet. Return to Cubari Site Publisher and run “Refresh All MangaDex Data,” then regenerate the preview.</p>
+    </section>
+    <div id="summary" class="summary"></div>
+    <section id="grid" class="grid" aria-live="polite"></section>
+    <p id="empty" class="empty" hidden>No matching titles.</p>
+  </main>
+  <footer>Cubari.moe is updated first, so some chapters may not be available on MangaDex yet.</footer>
+  <script src="assets/catalog.js?v=1784896897"></script>
+</body>
+</html>
