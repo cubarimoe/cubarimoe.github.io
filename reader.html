@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <title>Reader | TangPing Scanlations</title>
+  <link rel="stylesheet" href="assets/site.css?v=1784896926">
+</head>
+<body class="native-reader-page" style="--accent:#ff6740">
+  <div id="nativeReader" class="native-reader" aria-busy="true">
+    <div id="readerControls" class="reader-controls">
+      <header class="native-reader-bar">
+        <a class="reader-exit" href="index.html" aria-label="Return to catalogue" title="Return to catalogue">×</a>
+        <a id="readerTitleLink" class="reader-heading" href="title.html">
+          <strong id="readerMangaTitle">Loading title…</strong>
+          <span id="readerChapterTitle">Loading chapter…</span>
+        </a>
+        <div class="reader-actions" aria-label="Reader controls">
+          <button id="readerMode" type="button" title="Switch between long strip and single-page mode">Strip</button>
+          <button id="readerZoomOut" type="button" aria-label="Zoom out" title="Zoom out">−</button>
+          <button id="readerZoomReset" type="button" title="Reset zoom">100%</button>
+          <button id="readerZoomIn" type="button" aria-label="Zoom in" title="Zoom in">+</button>
+          <button id="readerFullscreen" type="button" aria-label="Toggle fullscreen" title="Toggle fullscreen">⛶</button>
+        </div>
+      </header>
+      <div class="reader-subbar">
+        <button id="readerPrevChapter" type="button" aria-label="Previous chapter" title="Previous chapter">‹ Chapter</button>
+        <span id="readerPageStatus">Loading…</span>
+        <button id="readerNextChapter" type="button" aria-label="Next chapter" title="Next chapter">Chapter ›</button>
+      </div>
+    </div>
+    <div id="readerTopHotspot" class="reader-top-hotspot" aria-hidden="true"></div>
+    <main id="readerViewport" class="reader-viewport strip-mode" tabindex="0" aria-label="Manga reader. Click or tap the left third for the previous page, the middle third for controls, and the right third for the next page.">
+      <button id="readerPrevPage" class="reader-page-nav prev" type="button" aria-label="Previous page">‹</button>
+      <div id="readerPages" class="reader-pages"><p class="reader-loading">Loading pages…</p></div>
+      <button id="readerNextPage" class="reader-page-nav next" type="button" aria-label="Next page">›</button>
+    </main>
+    <section id="readerError" class="reader-error" hidden>
+      <h1>Reader pages could not be displayed.</h1>
+      <p id="readerErrorMessage"></p>
+      <a id="readerCubariFallback" class="button primary" href="#" target="_blank" rel="noopener noreferrer">Open this chapter on Cubari.moe</a>
+      <a id="readerBackToTitle" class="button" href="title.html">Return to manga page</a>
+    </section>
+  </div>
+  <script src="assets/reader.js?v=1784896926"></script>
+</body>
+</html>

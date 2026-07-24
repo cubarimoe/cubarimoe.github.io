@@ -1,0 +1,691 @@
+{
+  "generated_at": 1784896926,
+  "site": {
+    "eyebrow": "Manga Catalogue",
+    "name": "TangPing Scanlations",
+    "browser_title": "TangPing Scanlations",
+    "subtitle": "Read releases from Cubari.moe or view the series on MangaDex.\n\n[**Donations**](https://shorturl.at/8jnUM) / [**Discord**](https://discord.gg/afkSENmHSy) / [**MangaDex**](https://mangadex.org/group/c5363518-3454-4094-8c05-0d97fda485d5/tangping-scanlations) / [**MangaUpdates**](https://www.mangaupdates.com/group/rvo16eq/tangping-scanlations) / [**Comick.dev**](https://comick.dev/group/tang-ping-scanlations)",
+    "footer": "Cubari.moe is updated first, so some chapters may not be available on MangaDex yet.",
+    "search_placeholder": "Search titles, tags, authors…",
+    "tags_heading": "Browse by tag",
+    "read_mangadex_label": "Read on MangaDex",
+    "latest_release_label": "Latest Cubari release",
+    "last_update_label": "Last Cubari update",
+    "accent": "#ff6740",
+    "show_tag_filters": true,
+    "tag_match_mode": "any",
+    "max_card_tags": 12,
+    "chapter_preview_rows": 2,
+    "chapter_group_size": 50,
+    "show_imgchest_views": true
+  },
+  "tags": [
+    {
+      "name": "Fantasy",
+      "count": 17
+    },
+    {
+      "name": "Isekai",
+      "count": 17
+    },
+    {
+      "name": "Adaptation",
+      "count": 11
+    },
+    {
+      "name": "Comedy",
+      "count": 11
+    },
+    {
+      "name": "Reincarnation",
+      "count": 9
+    },
+    {
+      "name": "Adventure",
+      "count": 8
+    },
+    {
+      "name": "Action",
+      "count": 7
+    },
+    {
+      "name": "Magic",
+      "count": 5
+    },
+    {
+      "name": "Slice of Life",
+      "count": 5
+    },
+    {
+      "name": "Romance",
+      "count": 4
+    },
+    {
+      "name": "Villainess",
+      "count": 4
+    },
+    {
+      "name": "Drama",
+      "count": 2
+    },
+    {
+      "name": "Monsters",
+      "count": 2
+    },
+    {
+      "name": "Oneshot",
+      "count": 2
+    },
+    {
+      "name": "Cooking",
+      "count": 1
+    },
+    {
+      "name": "Delinquents",
+      "count": 1
+    },
+    {
+      "name": "Demons",
+      "count": 1
+    },
+    {
+      "name": "Genderswap",
+      "count": 1
+    },
+    {
+      "name": "Ghosts",
+      "count": 1
+    },
+    {
+      "name": "Historical",
+      "count": 1
+    },
+    {
+      "name": "Martial Arts",
+      "count": 1
+    },
+    {
+      "name": "Monster Girls",
+      "count": 1
+    },
+    {
+      "name": "Mystery",
+      "count": 1
+    },
+    {
+      "name": "Survival",
+      "count": 1
+    }
+  ],
+  "titles": [
+    {
+      "id": "0738e1721fecd61a",
+      "title": "Kinto Reijou Kula-sama ~Akuyaku Reijou ni Koisuru Himanashi!~",
+      "original_title": "Kinto Reijou Kula-sama ~Akuyaku Reijou ni Koisuru Himanashi!~",
+      "alt_titles": [
+        "筋ト令嬢クーラ様～悪役令嬢に恋する暇なし！～",
+        "Muscular Lady Kura-sama"
+      ],
+      "authors": [
+        "Kio Nato"
+      ],
+      "artists": [
+        "Kio Nato"
+      ],
+      "cover": "assets/covers/7e2b77cb-5bd6-41d7-a68f-432e050e0acb.jpg",
+      "tags": [
+        "Reincarnation",
+        "Comedy",
+        "Isekai",
+        "Fantasy",
+        "Villainess"
+      ],
+      "status": "completed",
+      "chapter_count": 4,
+      "latest_chapter_number": "4",
+      "last_updated": 1784486572,
+      "last_updated_display": "July 19, 2026"
+    },
+    {
+      "id": "9e29a0488c9e7bbb",
+      "title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
+      "original_title": "Karada wa Jidou, Nakami wa Ossan no Nariagari Bokenki - Satera mo Tsuiteikimasu!",
+      "alt_titles": [
+        "身体は児童、中身はおっさんの成り上がり冒険記 サテラもついて行きます！",
+        "Satella Will Follow Along!: The story of an old man's mind in a child's body as he rises to power."
+      ],
+      "authors": [
+        "Rikisui"
+      ],
+      "artists": [
+        "Chihiro (ちひろ)"
+      ],
+      "cover": "assets/covers/f97d8ed4-e919-407f-a3b0-ad3b330a1891.jpg",
+      "tags": [
+        "Reincarnation",
+        "Monsters",
+        "Action",
+        "Survival",
+        "Adventure",
+        "Magic",
+        "Fantasy",
+        "Adaptation"
+      ],
+      "status": "completed",
+      "chapter_count": 12,
+      "latest_chapter_number": "10",
+      "last_updated": 1784486499,
+      "last_updated_display": "July 19, 2026"
+    },
+    {
+      "id": "30c6f98bc3f1e431",
+      "title": "Isekai Mou Kaeritai",
+      "original_title": "Isekai Mou Kaeritai",
+      "alt_titles": [
+        "異世界もう帰りたい",
+        "I Want To Go Back Home."
+      ],
+      "authors": [
+        "Doriyasu Koujou"
+      ],
+      "artists": [
+        "Doriyasu Koujou"
+      ],
+      "cover": "assets/covers/99729c30-4ed9-486d-a3da-08b06e242878.jpg",
+      "tags": [
+        "Comedy",
+        "Adventure",
+        "Isekai",
+        "Fantasy"
+      ],
+      "status": "completed",
+      "chapter_count": 33,
+      "latest_chapter_number": "33",
+      "last_updated": 1784486408,
+      "last_updated_display": "July 19, 2026"
+    },
+    {
+      "id": "fca0ba38cd1ebe1f",
+      "title": "Visual Breakers",
+      "original_title": "Visual Breakers",
+      "alt_titles": [
+        "Bijuaru Bureikazu",
+        "ビジュアルブレイカーズ",
+        "Descansos visuales"
+      ],
+      "authors": [
+        "Yonaka (よなか)"
+      ],
+      "artists": [
+        "Yonaka (よなか)"
+      ],
+      "cover": "assets/covers/ca17bc31-0ce6-4c99-ba9d-9be1a9c981a5.jpg",
+      "tags": [
+        "Romance",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "status": "ongoing",
+      "chapter_count": 16,
+      "latest_chapter_number": "16",
+      "last_updated": 1784486311,
+      "last_updated_display": "July 19, 2026"
+    },
+    {
+      "id": "2d5a4769744c7856",
+      "title": "Yankee Akuyaku Reijou - Tensei Tenka Yuiga Dokuson",
+      "original_title": "Yankee Akuyaku Reijou - Tensei Tenka Yuiga Dokuson",
+      "alt_titles": [
+        "ヤンキー悪役令嬢　転生天下唯我独尊シリーズ",
+        "Motorcycle Gang Leader ♂ Reborn as a Villainess ♀"
+      ],
+      "authors": [
+        "Akashingou Wataru (赤信号わたる)"
+      ],
+      "artists": [
+        "Akashingou Wataru (赤信号わたる)"
+      ],
+      "cover": "assets/covers/4e84b064-311e-4fa3-b7fc-f370ac3e9c6c.jpg",
+      "tags": [
+        "Reincarnation",
+        "Genderswap",
+        "Action",
+        "Comedy",
+        "Isekai",
+        "Fantasy",
+        "Villainess",
+        "Delinquents"
+      ],
+      "status": "completed",
+      "chapter_count": 26,
+      "latest_chapter_number": "24",
+      "last_updated": 1780510226,
+      "last_updated_display": "June 03, 2026"
+    },
+    {
+      "id": "2fdc4a0f3b7420b0",
+      "title": "Ie Tsukuri Skill de Isekai wo Ikinobiro",
+      "original_title": "Ie Tsukuri Skill de Isekai wo Ikinobiro",
+      "alt_titles": [
+        "家つくりスキルで異世界を生き延びろ",
+        "Ie Tsukuri Skill de Isekai o Ikinobiro",
+        "Survive in a Different World with Your House-Building Skills"
+      ],
+      "authors": [
+        "Kotoriya Emu"
+      ],
+      "artists": [
+        "Hinata Nonoka"
+      ],
+      "cover": "assets/covers/d2597f44-c162-4d21-8ecc-126d67b6f32b.jpg",
+      "tags": [
+        "Reincarnation",
+        "Adventure",
+        "Magic",
+        "Isekai",
+        "Fantasy",
+        "Slice of Life",
+        "Adaptation"
+      ],
+      "status": "completed",
+      "chapter_count": 18,
+      "latest_chapter_number": "16",
+      "last_updated": 1777154622,
+      "last_updated_display": "April 25, 2026"
+    },
+    {
+      "id": "c612f69c6dbb654f",
+      "title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
+      "original_title": "Meikyuu Teikoku no Tsukurikata - Renseijutsushi wa Mazu Risou no Mura wo Kaitaku Shimasu",
+      "alt_titles": [
+        "迷宮帝国の作り方 ～錬成術士はまず理想の村を開拓します～",
+        "The Making of a Labyrinthine Empire",
+        "Le Bastion de l'Alchimiste"
+      ],
+      "authors": [
+        "Shuukichi"
+      ],
+      "artists": [
+        "Hodaka Jun"
+      ],
+      "cover": "assets/covers/2fbf4efb-8570-4201-ab8d-5a50aaddd431.jpg",
+      "tags": [
+        "Reincarnation",
+        "Isekai",
+        "Fantasy",
+        "Slice of Life",
+        "Adaptation"
+      ],
+      "status": "completed",
+      "chapter_count": 15,
+      "latest_chapter_number": "15",
+      "last_updated": 1775239340,
+      "last_updated_display": "April 03, 2026"
+    },
+    {
+      "id": "e25e1bd743291100",
+      "title": "Aku no Kadou o Ikimashou",
+      "original_title": "Aku no Kadou o Ikimashou",
+      "alt_titles": [
+        "悪の華道を行きましょう",
+        "The Flowery Path of Evil",
+        "Let's Go on the Evil Runway",
+        "Vamos andar de mãos dadas pelo caminho florido para a maldade?",
+        "¿Caminamos de la mano por el camino florido del mal?",
+        "Аку но кадоу во Ікімашоу",
+        "Аку но кидоу во икимащоу",
+        "Nem sétálunk le kézen fogva a gonoszság virágos útján?",
+        "เส้นทางปีศาจที่งดงามนั่นน่ะ จะไปด้วยกันดีไหม?",
+        "Akankah kita berjalan begandengan tangan di jalan kejahatan yang berbunga?",
+        "Mari kita berjalan sembari bergandengan turun ke jalan kejahatan yang berbunga-bunga",
+        "악의 꽃길을 같이 걸어요",
+        "악의 꽃길을 걸읍시다",
+        "Hãy cùng đi trên con đường hoa của ác quỷ",
+        "漫步於惡之花道"
+      ],
+      "authors": [
+        "Mafuyubi"
+      ],
+      "artists": [
+        "Yamashiro Umeta"
+      ],
+      "cover": "assets/covers/01ea7299-112c-41f4-b2a0-6d28c272deef.jpg",
+      "tags": [
+        "Reincarnation",
+        "Romance",
+        "Comedy",
+        "Isekai",
+        "Drama",
+        "Fantasy",
+        "Villainess",
+        "Adaptation"
+      ],
+      "status": "ongoing",
+      "chapter_count": 32,
+      "latest_chapter_number": "14.5",
+      "last_updated": 1775239039,
+      "last_updated_display": "April 03, 2026"
+    },
+    {
+      "id": "a960f94827adc721",
+      "title": "Oozumou Reijou ~Seijo ni Hirateuchi wo Kuratta Shunkan Sumou Budatta Zense wo Omoidashita Akuyaku Reijou no Watashi wa sute Neko Ouji ni Chanko wo Furumaitai Haadosukoidosukoi~",
+      "original_title": "Oozumou Reijou ~Seijo ni Hirateuchi wo Kuratta Shunkan Sumou Budatta Zense wo Omoidashita Akuyaku Reijou no Watashi wa sute Neko Ouji ni Chanko wo Furumaitai Haadosukoidosukoi~",
+      "alt_titles": [
+        "大相撲令嬢　～聖女に平手打ちを食らった瞬間相撲部だった前世を思い出した悪役令嬢の私は捨て猫王子にちゃんこを振る舞いたい　はぁどすこいどすこい～",
+        "大相撲令嬢",
+        "Oozumou Reijou"
+      ],
+      "authors": [
+        "Kawauso Utan"
+      ],
+      "artists": [
+        "Kagesaki Yuna"
+      ],
+      "cover": "assets/covers/77d9a72e-daf2-42d3-919d-5d83318346f9.jpg",
+      "tags": [
+        "Reincarnation",
+        "Action",
+        "Comedy",
+        "Martial Arts",
+        "Isekai",
+        "Fantasy",
+        "Villainess",
+        "Adaptation"
+      ],
+      "status": "completed",
+      "chapter_count": 16,
+      "latest_chapter_number": "14",
+      "last_updated": 1773401726,
+      "last_updated_display": "March 13, 2026"
+    },
+    {
+      "id": "06085232c93f2d25",
+      "title": "Tensei Cinderella wa Glass no Kutsu wo Hakitakunai",
+      "original_title": "Tensei Cinderella wa Glass no Kutsu wo Hakitakunai",
+      "alt_titles": [
+        "転生シンデレラはガラスの靴を履きたくない"
+      ],
+      "authors": [
+        "Nanao Mio"
+      ],
+      "artists": [
+        "Touma Rei"
+      ],
+      "cover": "assets/covers/c80acdca-6d7f-4134-859c-c88ddfa63210.jpg",
+      "tags": [
+        "Oneshot",
+        "Romance",
+        "Isekai",
+        "Fantasy"
+      ],
+      "status": "completed",
+      "chapter_count": 1,
+      "latest_chapter_number": "1",
+      "last_updated": 1766416837,
+      "last_updated_display": "December 22, 2025"
+    },
+    {
+      "id": "fc934a92d469bb6e",
+      "title": "Isekai de Saikyou no Skill wo Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~Ore Dake ga Skill no Suuchi wo Katte ni Sousa~",
+      "original_title": "Isekai de Saikyou no Skill wo Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~Ore Dake ga Skill no Suuchi wo Katte ni Sousa~",
+      "alt_titles": [
+        "異世界で最強のスキルを生み出せたので、ひたすら無双することにしました。～俺だけがステータスを勝手に操作～（コミック）",
+        "Isekai de Saikyou no Skill o Umidaseta node, Hitasura Musou Suru Koto ni Shimashita. ~Ore Dake ga Skill no Suuchi o Katte ni Sousa~",
+        "I was Able to Create the Strongest Skill in Another World, So I Decided to Be a Matchless Warrior.: I'm the Only One Who Manipulates My Status"
+      ],
+      "authors": [
+        "Higekubi Jizo"
+      ],
+      "artists": [
+        "Hoshi Tomajirou"
+      ],
+      "cover": "assets/covers/01b33c25-4ae0-4d07-905a-f2e2dafbc015.jpg",
+      "tags": [
+        "Reincarnation",
+        "Action",
+        "Adventure",
+        "Magic",
+        "Isekai",
+        "Fantasy",
+        "Adaptation"
+      ],
+      "status": "ongoing",
+      "chapter_count": 28,
+      "latest_chapter_number": "9.3",
+      "last_updated": 1756576498,
+      "last_updated_display": "August 30, 2025"
+    },
+    {
+      "id": "cfacd3f414846e74",
+      "title": "Isekai Tensei Kabushikigaisha: Anshin Anzen na Tensei Life, Teikyou Shimasu",
+      "original_title": "Isekai Tensei Kabushikigaisha: Anshin Anzen na Tensei Life, Teikyou Shimasu",
+      "alt_titles": [
+        "Isekai Tensei Kabushiki Gaisha ~Anshin Anzen na Tensei Life, Teikyou shimasu~"
+      ],
+      "authors": [
+        "Natsumin"
+      ],
+      "artists": [
+        "Natsumin"
+      ],
+      "cover": "assets/covers/c00d8457-d6a4-428d-bc01-b2e5a0127cd5.jpg",
+      "tags": [
+        "Comedy",
+        "Isekai",
+        "Fantasy"
+      ],
+      "status": "completed",
+      "chapter_count": 7,
+      "latest_chapter_number": "7",
+      "last_updated": 1753454576,
+      "last_updated_display": "July 25, 2025"
+    },
+    {
+      "id": "99476aca7d6ca983",
+      "title": "Yuusha ni Narenakatta Sanbaka Trio wa, Kyou mo Otoko Meshi wo Koshiraeru.",
+      "original_title": "Yuusha ni Narenakatta Sanbaka Trio wa, Kyou mo Otoko Meshi wo Koshiraeru.",
+      "alt_titles": [
+        "勇者になれなかった三馬鹿トリオは、今日も男飯を拵える。"
+      ],
+      "authors": [
+        "Kuronuka"
+      ],
+      "artists": [
+        "Kameyoshi Ichiko"
+      ],
+      "cover": "assets/covers/7bcc4c35-1e34-4a4f-86e7-8e346b164c4c.jpg",
+      "tags": [
+        "Isekai",
+        "Fantasy",
+        "Cooking",
+        "Adaptation"
+      ],
+      "status": "completed",
+      "chapter_count": 11,
+      "latest_chapter_number": "10",
+      "last_updated": 1748728485,
+      "last_updated_display": "May 31, 2025"
+    },
+    {
+      "id": "61c4b2e146f75fe0",
+      "title": "Isekai Cheat Breakers",
+      "original_title": "Isekai Cheat Breakers",
+      "alt_titles": [
+        "異世界チートブレイカーズ"
+      ],
+      "authors": [
+        "Amana Kouta"
+      ],
+      "artists": [
+        "Sasaki Yuuchan"
+      ],
+      "cover": "assets/covers/c9bc75fb-c01a-4659-87a1-bf8c5b9816b4.jpg",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Isekai",
+        "Drama",
+        "Fantasy"
+      ],
+      "status": "completed",
+      "chapter_count": 11,
+      "latest_chapter_number": "11",
+      "last_updated": 1748699365,
+      "last_updated_display": "May 31, 2025"
+    },
+    {
+      "id": "e4e541c326c33746",
+      "title": "Isekai de Seijo ni natta Watashi, Genjitsu Sekai demo Seijo Cheat de Kanzen Shouri!",
+      "original_title": "Isekai de Seijo ni natta Watashi, Genjitsu Sekai demo Seijo Cheat de Kanzen Shouri!",
+      "alt_titles": [
+        "異世界で聖女になった私、現実世界でも聖女チートで完全勝利！"
+      ],
+      "authors": [
+        "Yotsuba Yuuto"
+      ],
+      "artists": [
+        "Sakurai Yuusuke"
+      ],
+      "cover": "assets/covers/2cd0dcbc-ee00-4bc2-94d1-2c8c8cdd18c5.jpg",
+      "tags": [
+        "Comedy",
+        "Magic",
+        "Isekai",
+        "Fantasy",
+        "Slice of Life",
+        "Adaptation"
+      ],
+      "status": "completed",
+      "chapter_count": 9,
+      "latest_chapter_number": "8.5",
+      "last_updated": 1748696828,
+      "last_updated_display": "May 31, 2025"
+    },
+    {
+      "id": "22d5e9a5a185333a",
+      "title": "Shiganai Tensei Reijou wa Heion ni Kurashitai",
+      "original_title": "Shiganai Tensei Reijou wa Heion ni Kurashitai",
+      "alt_titles": [
+        "しがない転生令嬢は平穏に暮らしたい",
+        "The Unassuming Noble Lady Just Wants to Live a Peaceful Life",
+        "Reincarnated Miserable Young Lady Wants to Live in Peace"
+      ],
+      "authors": [
+        "Taira"
+      ],
+      "artists": [
+        "Odayaka"
+      ],
+      "cover": "assets/covers/77a92f95-7fe2-45e4-a449-72080ed4e3e3.jpg",
+      "tags": [
+        "Reincarnation",
+        "Historical",
+        "Romance",
+        "Comedy",
+        "Isekai",
+        "Fantasy",
+        "Adaptation"
+      ],
+      "status": "completed",
+      "chapter_count": 12,
+      "latest_chapter_number": "12",
+      "last_updated": 1748692291,
+      "last_updated_display": "May 31, 2025"
+    },
+    {
+      "id": "486c62fb97d308d7",
+      "title": "Isekai no Meitantei",
+      "original_title": "Isekai no Meitantei",
+      "alt_titles": [
+        "Great Detective from Another World",
+        "Great Detective of Another World!",
+        "いせかいのめいたんてい",
+        "異世界の名探偵"
+      ],
+      "authors": [
+        "Katazoto Kamome"
+      ],
+      "artists": [
+        "Sou Ichirou"
+      ],
+      "cover": "assets/covers/d3c582a7-9fe7-42f7-b4a2-c9b273e455ed.jpg",
+      "tags": [
+        "Action",
+        "Adventure",
+        "Isekai",
+        "Mystery",
+        "Adaptation"
+      ],
+      "status": "completed",
+      "chapter_count": 15,
+      "latest_chapter_number": "15",
+      "last_updated": 1748627765,
+      "last_updated_display": "May 30, 2025"
+    },
+    {
+      "id": "6ffce8f1a87595ad",
+      "title": "Tanaka no Isekai Nariagari",
+      "original_title": "Tanaka no Isekai Nariagari",
+      "alt_titles": [
+        "タナカの異世界成り上がり",
+        "The Rise of Tanaka in Another World"
+      ],
+      "authors": [
+        "Guri"
+      ],
+      "artists": [
+        "Kikuyarou"
+      ],
+      "cover": "assets/covers/17459bd9-9f6d-492d-94e8-1a16425e6a9c.jpg",
+      "tags": [
+        "Monsters",
+        "Demons",
+        "Comedy",
+        "Adventure",
+        "Magic",
+        "Isekai",
+        "Fantasy",
+        "Monster Girls",
+        "Slice of Life",
+        "Adaptation"
+      ],
+      "status": "completed",
+      "chapter_count": 16,
+      "latest_chapter_number": "16",
+      "last_updated": 1748618632,
+      "last_updated_display": "May 30, 2025"
+    },
+    {
+      "id": "721b2f1dd2b82531",
+      "title": "666-banme no Shinigami",
+      "original_title": "666-banme no Shinigami",
+      "alt_titles": [
+        "666番目の死神",
+        "666дахь Үхлийн Бурхан",
+        "The 666th Grim Reaper",
+        "Parca 666"
+      ],
+      "authors": [
+        "Kawaguchi Akira"
+      ],
+      "artists": [
+        "Kawaguchi Akira"
+      ],
+      "cover": "assets/covers/7bd1956a-aa96-49e8-ae51-ade03ba4bffe.jpg",
+      "tags": [
+        "Oneshot",
+        "Action",
+        "Ghosts",
+        "Comedy",
+        "Adventure",
+        "Isekai",
+        "Fantasy"
+      ],
+      "status": "completed",
+      "chapter_count": 1,
+      "latest_chapter_number": "1",
+      "last_updated": 1748609401,
+      "last_updated_display": "May 30, 2025"
+    }
+  ]
+}
