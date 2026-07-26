@@ -1,5 +1,5 @@
 {
-  "generated_at": 1784896926,
+  "generated_at": 1785108017,
   "site": {
     "eyebrow": "Manga Catalogue",
     "name": "TangPing Scanlations",
@@ -66,6 +66,10 @@
     },
     {
       "name": "Drama",
+      "count": 3
+    },
+    {
+      "name": "Historical",
       "count": 2
     },
     {
@@ -97,10 +101,6 @@
       "count": 1
     },
     {
-      "name": "Historical",
-      "count": 1
-    },
-    {
       "name": "Martial Arts",
       "count": 1
     },
@@ -118,6 +118,30 @@
     }
   ],
   "titles": [
+    {
+      "id": "785861f62af08764",
+      "title": "Newton wo Daita Onna",
+      "original_title": "Newton wo Daita Onna",
+      "alt_titles": [
+        "ニュートンを抱いた女"
+      ],
+      "authors": [
+        "Tsuruga Rei"
+      ],
+      "artists": [
+        "Itosugi Masahiro"
+      ],
+      "cover": "assets/covers/f61ae076-69e1-442d-83b7-1f0c5a515fdf.jpg",
+      "tags": [
+        "Historical",
+        "Drama"
+      ],
+      "status": "ongoing",
+      "chapter_count": 1,
+      "latest_chapter_number": "1",
+      "last_updated": 1785107490,
+      "last_updated_display": "July 26, 2026"
+    },
     {
       "id": "0738e1721fecd61a",
       "title": "Kinto Reijou Kula-sama ~Akuyaku Reijou ni Koisuru Himanashi!~",
