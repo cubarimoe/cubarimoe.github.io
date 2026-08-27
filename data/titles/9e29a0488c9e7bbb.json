@@ -75,7 +75,7 @@
         "https://cdn.imgchest.com/files/yvdcwnj853y.png"
       ],
       "page_count": 24,
-      "imgchest_views": 5,
+      "imgchest_views": 6,
       "reader_available": true
     },
     {
@@ -127,7 +127,7 @@
         "https://cdn.imgchest.com/files/7bwck2lxax7.png"
       ],
       "page_count": 38,
-      "imgchest_views": 6,
+      "imgchest_views": 7,
       "reader_available": true
     },
     {
@@ -184,7 +184,7 @@
         "https://cdn.imgchest.com/files/7mmc96eezd7.png"
       ],
       "page_count": 43,
-      "imgchest_views": 5,
+      "imgchest_views": 6,
       "reader_available": true
     },
     {
@@ -235,7 +235,7 @@
         "https://cdn.imgchest.com/files/c38c98f6fcbd.png"
       ],
       "page_count": 37,
-      "imgchest_views": 5,
+      "imgchest_views": 6,
       "reader_available": true
     },
     {
@@ -275,7 +275,7 @@
         "https://cdn.imgchest.com/files/76363009f5e2.png"
       ],
       "page_count": 26,
-      "imgchest_views": 8,
+      "imgchest_views": 9,
       "reader_available": true
     },
     {
@@ -327,7 +327,7 @@
         "https://cdn.imgchest.com/files/25fba60294f9.png"
       ],
       "page_count": 38,
-      "imgchest_views": 5,
+      "imgchest_views": 6,
       "reader_available": true
     },
     {
@@ -352,7 +352,7 @@
         "https://cdn.imgchest.com/files/e1d87834cc13.png"
       ],
       "page_count": 11,
-      "imgchest_views": 6,
+      "imgchest_views": 7,
       "reader_available": true
     },
     {
@@ -390,7 +390,7 @@
         "https://cdn.imgchest.com/files/bb700dabf776.png"
       ],
       "page_count": 24,
-      "imgchest_views": 5,
+      "imgchest_views": 6,
       "reader_available": true
     },
     {
@@ -430,7 +430,7 @@
         "https://cdn.imgchest.com/files/35e4d57f43fe.png"
       ],
       "page_count": 26,
-      "imgchest_views": 6,
+      "imgchest_views": 7,
       "reader_available": true
     },
     {
@@ -464,7 +464,7 @@
         "https://cdn.imgchest.com/files/7027e3a074ca.png"
       ],
       "page_count": 20,
-      "imgchest_views": 6,
+      "imgchest_views": 7,
       "reader_available": true
     },
     {
@@ -498,7 +498,7 @@
         "https://cdn.imgchest.com/files/833c7c046388.png"
       ],
       "page_count": 20,
-      "imgchest_views": 6,
+      "imgchest_views": 8,
       "reader_available": true
     },
     {
@@ -532,25 +532,61 @@
         "https://cdn.imgchest.com/files/3864c0738d0e.png"
       ],
       "page_count": 20,
-      "imgchest_views": 6,
+      "imgchest_views": 7,
+      "reader_available": true
+    },
+    {
+      "number": "11",
+      "title": "",
+      "volume": "2",
+      "last_updated": 1787789017,
+      "last_updated_display": "August 27, 2026",
+      "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL3NhdGVyYW1vdHN1aXRlaWtpbWFzdS5qc29u/11/1/",
+      "imgchest_id": "pg73v5qezyr",
+      "pages": [
+        "https://cdn.imgchest.com/files/9649780f6230.png",
+        "https://cdn.imgchest.com/files/2ca4f062e855.jpg",
+        "https://cdn.imgchest.com/files/2057fdd7ce41.jpg",
+        "https://cdn.imgchest.com/files/215d5b43c6e3.jpg",
+        "https://cdn.imgchest.com/files/165e02891bf2.jpg",
+        "https://cdn.imgchest.com/files/01e7f1d61fe7.jpg",
+        "https://cdn.imgchest.com/files/c68822913139.jpg",
+        "https://cdn.imgchest.com/files/17878ff72bca.jpg",
+        "https://cdn.imgchest.com/files/341e32e3183d.jpg",
+        "https://cdn.imgchest.com/files/c243da9bdf60.jpg",
+        "https://cdn.imgchest.com/files/caf5e15da3f2.jpg",
+        "https://cdn.imgchest.com/files/b0e6e8a84658.jpg",
+        "https://cdn.imgchest.com/files/c8348c8a9e9c.jpg",
+        "https://cdn.imgchest.com/files/f4c4bcbb8ba2.jpg",
+        "https://cdn.imgchest.com/files/6d6ce41c95c2.jpg",
+        "https://cdn.imgchest.com/files/a448dc1db1d7.jpg",
+        "https://cdn.imgchest.com/files/4f5068696734.jpg",
+        "https://cdn.imgchest.com/files/2e7faa0e8e78.jpg",
+        "https://cdn.imgchest.com/files/0c840e94a4ad.jpg",
+        "https://cdn.imgchest.com/files/2f0b244d5926.jpg",
+        "https://cdn.imgchest.com/files/42e64414cdd2.jpg",
+        "https://cdn.imgchest.com/files/0ce7c6b62cce.png"
+      ],
+      "page_count": 22,
+      "imgchest_views": 1,
       "reader_available": true
     }
   ],
   "mangadex_url": "https://mangadex.org/title/f97d8ed4-e919-407f-a3b0-ad3b330a1891",
-  "chapter_count": 12,
+  "chapter_count": 13,
   "latest_chapter": {
-    "number": "10",
+    "number": "11",
     "title": "",
     "volume": "2",
-    "last_updated": 1784486499,
+    "last_updated": 1787789017,
     "group_count": 1,
-    "reader_source": "/proxy/api/imgchest/chapter/qb4z2bzpg4j",
-    "imgchest_id": "qb4z2bzpg4j",
+    "reader_source": "/proxy/api/imgchest/chapter/pg73v5qezyr",
+    "imgchest_id": "pg73v5qezyr",
     "pages": []
   },
-  "latest_chapter_number": "10",
+  "latest_chapter_number": "11",
   "latest_chapter_title": "",
-  "last_updated": 1784486499,
-  "last_updated_display": "July 19, 2026",
-  "mangadex_refreshed_at": 1785108012
+  "last_updated": 1787789017,
+  "last_updated_display": "August 27, 2026",
+  "mangadex_refreshed_at": 1787789495
 }

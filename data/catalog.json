@@ -1,5 +1,5 @@
 {
-  "generated_at": 1785108017,
+  "generated_at": 1787789501,
   "site": {
     "eyebrow": "Manga Catalogue",
     "name": "TangPing Scanlations",
@@ -119,28 +119,31 @@
   ],
   "titles": [
     {
-      "id": "785861f62af08764",
-      "title": "Newton wo Daita Onna",
-      "original_title": "Newton wo Daita Onna",
+      "id": "30c6f98bc3f1e431",
+      "title": "Isekai Mou Kaeritai",
+      "original_title": "Isekai Mou Kaeritai",
       "alt_titles": [
-        "ニュートンを抱いた女"
+        "異世界もう帰りたい",
+        "I Want To Go Back Home."
       ],
       "authors": [
-        "Tsuruga Rei"
+        "Doriyasu Koujou"
       ],
       "artists": [
-        "Itosugi Masahiro"
+        "Doriyasu Koujou"
       ],
-      "cover": "assets/covers/f61ae076-69e1-442d-83b7-1f0c5a515fdf.jpg",
+      "cover": "assets/covers/99729c30-4ed9-486d-a3da-08b06e242878.jpg",
       "tags": [
-        "Historical",
-        "Drama"
+        "Comedy",
+        "Adventure",
+        "Isekai",
+        "Fantasy"
       ],
-      "status": "ongoing",
-      "chapter_count": 1,
-      "latest_chapter_number": "1",
-      "last_updated": 1785107490,
-      "last_updated_display": "July 26, 2026"
+      "status": "completed",
+      "chapter_count": 34,
+      "latest_chapter_number": "34",
+      "last_updated": 1787789211,
+      "last_updated_display": "August 27, 2026"
     },
     {
       "id": "0738e1721fecd61a",
@@ -165,10 +168,10 @@
         "Villainess"
       ],
       "status": "completed",
-      "chapter_count": 4,
-      "latest_chapter_number": "4",
-      "last_updated": 1784486572,
-      "last_updated_display": "July 19, 2026"
+      "chapter_count": 5,
+      "latest_chapter_number": "5",
+      "last_updated": 1787789116,
+      "last_updated_display": "August 27, 2026"
     },
     {
       "id": "9e29a0488c9e7bbb",
@@ -196,37 +199,34 @@
         "Adaptation"
       ],
       "status": "completed",
-      "chapter_count": 12,
-      "latest_chapter_number": "10",
-      "last_updated": 1784486499,
-      "last_updated_display": "July 19, 2026"
+      "chapter_count": 13,
+      "latest_chapter_number": "11",
+      "last_updated": 1787789017,
+      "last_updated_display": "August 27, 2026"
     },
     {
-      "id": "30c6f98bc3f1e431",
-      "title": "Isekai Mou Kaeritai",
-      "original_title": "Isekai Mou Kaeritai",
+      "id": "785861f62af08764",
+      "title": "Newton wo Daita Onna",
+      "original_title": "Newton wo Daita Onna",
       "alt_titles": [
-        "異世界もう帰りたい",
-        "I Want To Go Back Home."
+        "ニュートンを抱いた女"
       ],
       "authors": [
-        "Doriyasu Koujou"
+        "Tsuruga Rei"
       ],
       "artists": [
-        "Doriyasu Koujou"
+        "Itosugi Masahiro"
       ],
-      "cover": "assets/covers/99729c30-4ed9-486d-a3da-08b06e242878.jpg",
+      "cover": "assets/covers/f61ae076-69e1-442d-83b7-1f0c5a515fdf.jpg",
       "tags": [
-        "Comedy",
-        "Adventure",
-        "Isekai",
-        "Fantasy"
+        "Historical",
+        "Drama"
       ],
-      "status": "completed",
-      "chapter_count": 33,
-      "latest_chapter_number": "33",
-      "last_updated": 1784486408,
-      "last_updated_display": "July 19, 2026"
+      "status": "ongoing",
+      "chapter_count": 2,
+      "latest_chapter_number": "2",
+      "last_updated": 1787788759,
+      "last_updated_display": "August 26, 2026"
     },
     {
       "id": "fca0ba38cd1ebe1f",
@@ -250,10 +250,54 @@
         "Slice of Life"
       ],
       "status": "ongoing",
-      "chapter_count": 16,
-      "latest_chapter_number": "16",
-      "last_updated": 1784486311,
-      "last_updated_display": "July 19, 2026"
+      "chapter_count": 18,
+      "latest_chapter_number": "17.5",
+      "last_updated": 1787788593,
+      "last_updated_display": "August 26, 2026"
+    },
+    {
+      "id": "e25e1bd743291100",
+      "title": "Aku no Kadou o Ikimashou",
+      "original_title": "Aku no Kadou o Ikimashou",
+      "alt_titles": [
+        "悪の華道を行きましょう",
+        "The Flowery Path of Evil",
+        "Let's Go on the Evil Runway",
+        "Vamos andar de mãos dadas pelo caminho florido para a maldade?",
+        "¿Caminamos de la mano por el camino florido del mal?",
+        "Аку но кадоу во Ікімашоу",
+        "Аку но кидоу во икимащоу",
+        "Nem sétálunk le kézen fogva a gonoszság virágos útján?",
+        "เส้นทางปีศาจที่งดงามนั่นน่ะ จะไปด้วยกันดีไหม?",
+        "Akankah kita berjalan begandengan tangan di jalan kejahatan yang berbunga?",
+        "Mari kita berjalan sembari bergandengan turun ke jalan kejahatan yang berbunga-bunga",
+        "악의 꽃길을 같이 걸어요",
+        "악의 꽃길을 걸읍시다",
+        "Hãy cùng đi trên con đường hoa của ác quỷ",
+        "漫步於惡之花道"
+      ],
+      "authors": [
+        "Mafuyubi"
+      ],
+      "artists": [
+        "Yamashiro Umeta"
+      ],
+      "cover": "assets/covers/01ea7299-112c-41f4-b2a0-6d28c272deef.jpg",
+      "tags": [
+        "Reincarnation",
+        "Romance",
+        "Comedy",
+        "Isekai",
+        "Drama",
+        "Fantasy",
+        "Villainess",
+        "Adaptation"
+      ],
+      "status": "ongoing",
+      "chapter_count": 33,
+      "latest_chapter_number": "15",
+      "last_updated": 1787788367,
+      "last_updated_display": "August 26, 2026"
     },
     {
       "id": "2d5a4769744c7856",
@@ -347,50 +391,6 @@
       "last_updated_display": "April 03, 2026"
     },
     {
-      "id": "e25e1bd743291100",
-      "title": "Aku no Kadou o Ikimashou",
-      "original_title": "Aku no Kadou o Ikimashou",
-      "alt_titles": [
-        "悪の華道を行きましょう",
-        "The Flowery Path of Evil",
-        "Let's Go on the Evil Runway",
-        "Vamos andar de mãos dadas pelo caminho florido para a maldade?",
-        "¿Caminamos de la mano por el camino florido del mal?",
-        "Аку но кадоу во Ікімашоу",
-        "Аку но кидоу во икимащоу",
-        "Nem sétálunk le kézen fogva a gonoszság virágos útján?",
-        "เส้นทางปีศาจที่งดงามนั่นน่ะ จะไปด้วยกันดีไหม?",
-        "Akankah kita berjalan begandengan tangan di jalan kejahatan yang berbunga?",
-        "Mari kita berjalan sembari bergandengan turun ke jalan kejahatan yang berbunga-bunga",
-        "악의 꽃길을 같이 걸어요",
-        "악의 꽃길을 걸읍시다",
-        "Hãy cùng đi trên con đường hoa của ác quỷ",
-        "漫步於惡之花道"
-      ],
-      "authors": [
-        "Mafuyubi"
-      ],
-      "artists": [
-        "Yamashiro Umeta"
-      ],
-      "cover": "assets/covers/01ea7299-112c-41f4-b2a0-6d28c272deef.jpg",
-      "tags": [
-        "Reincarnation",
-        "Romance",
-        "Comedy",
-        "Isekai",
-        "Drama",
-        "Fantasy",
-        "Villainess",
-        "Adaptation"
-      ],
-      "status": "ongoing",
-      "chapter_count": 32,
-      "latest_chapter_number": "14.5",
-      "last_updated": 1775239039,
-      "last_updated_display": "April 03, 2026"
-    },
-    {
       "id": "a960f94827adc721",
       "title": "Oozumou Reijou ~Seijo ni Hirateuchi wo Kuratta Shunkan Sumou Budatta Zense wo Omoidashita Akuyaku Reijou no Watashi wa sute Neko Ouji ni Chanko wo Furumaitai Haadosukoidosukoi~",
       "original_title": "Oozumou Reijou ~Seijo ni Hirateuchi wo Kuratta Shunkan Sumou Budatta Zense wo Omoidashita Akuyaku Reijou no Watashi wa sute Neko Ouji ni Chanko wo Furumaitai Haadosukoidosukoi~",
@@ -458,7 +458,7 @@
         "I was Able to Create the Strongest Skill in Another World, So I Decided to Be a Matchless Warrior.: I'm the Only One Who Manipulates My Status"
       ],
       "authors": [
-        "Higekubi Jizo"
+        "Higekubi Jizou"
       ],
       "artists": [
         "Hoshi Tomajirou"
@@ -473,7 +473,7 @@
         "Fantasy",
         "Adaptation"
       ],
-      "status": "ongoing",
+      "status": "cancelled",
       "chapter_count": 28,
       "latest_chapter_number": "9.3",
       "last_updated": 1756576498,
