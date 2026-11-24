@@ -45,7 +45,8 @@
       "last_updated": 1748695723,
       "last_updated_display": "May 31, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaWRlc2Vpam91bmluYXR0YXdhdGFzaGkuanNvbg==/1/1/",
-      "page_count": 0
+      "page_count": 64,
+      "custom_reader": true
     },
     {
       "number": "2",
@@ -54,7 +55,8 @@
       "last_updated": 1748695857,
       "last_updated_display": "May 31, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaWRlc2Vpam91bmluYXR0YXdhdGFzaGkuanNvbg==/2/1/",
-      "page_count": 0
+      "page_count": 38,
+      "custom_reader": true
     },
     {
       "number": "3",
@@ -63,7 +65,8 @@
       "last_updated": 1748696023,
       "last_updated_display": "May 31, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaWRlc2Vpam91bmluYXR0YXdhdGFzaGkuanNvbg==/3/1/",
-      "page_count": 0
+      "page_count": 34,
+      "custom_reader": true
     },
     {
       "number": "4",
@@ -72,7 +75,8 @@
       "last_updated": 1748696184,
       "last_updated_display": "May 31, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaWRlc2Vpam91bmluYXR0YXdhdGFzaGkuanNvbg==/4/1/",
-      "page_count": 0
+      "page_count": 46,
+      "custom_reader": true
     },
     {
       "number": "5",
@@ -81,7 +85,8 @@
       "last_updated": 1748696337,
       "last_updated_display": "May 31, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaWRlc2Vpam91bmluYXR0YXdhdGFzaGkuanNvbg==/5/1/",
-      "page_count": 0
+      "page_count": 44,
+      "custom_reader": true
     },
     {
       "number": "6",
@@ -90,7 +95,8 @@
       "last_updated": 1748696500,
       "last_updated_display": "May 31, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaWRlc2Vpam91bmluYXR0YXdhdGFzaGkuanNvbg==/6/1/",
-      "page_count": 0
+      "page_count": 44,
+      "custom_reader": true
     },
     {
       "number": "7",
@@ -99,7 +105,8 @@
       "last_updated": 1748696618,
       "last_updated_display": "May 31, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaWRlc2Vpam91bmluYXR0YXdhdGFzaGkuanNvbg==/7/1/",
-      "page_count": 0
+      "page_count": 32,
+      "custom_reader": true
     },
     {
       "number": "8",
@@ -108,7 +115,8 @@
       "last_updated": 1748696711,
       "last_updated_display": "May 31, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaWRlc2Vpam91bmluYXR0YXdhdGFzaGkuanNvbg==/8/1/",
-      "page_count": 0
+      "page_count": 36,
+      "custom_reader": true
     },
     {
       "number": "8.5",
@@ -117,7 +125,8 @@
       "last_updated": 1748696828,
       "last_updated_display": "May 31, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2lzZWthaWRlc2Vpam91bmluYXR0YXdhdGFzaGkuanNvbg==/8.5/1/",
-      "page_count": 0
+      "page_count": 28,
+      "custom_reader": true
     }
   ],
   "mangadex_url": "https://mangadex.org/title/2cd0dcbc-ee00-4bc2-94d1-2c8c8cdd18c5",
@@ -136,5 +145,5 @@
   "latest_chapter_title": "The Saintess and Bunny's diet strategy",
   "last_updated": 1748696828,
   "last_updated_display": "May 31, 2025",
-  "mangadex_refreshed_at": 1795532682
+  "mangadex_refreshed_at": 1795535430
 }

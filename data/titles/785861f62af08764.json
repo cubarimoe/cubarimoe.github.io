@@ -37,7 +37,8 @@
       "last_updated": 1785107490,
       "last_updated_display": "July 26, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL25ld3RvbndvZGFpdGEuanNvbg==/1/1/",
-      "page_count": 0
+      "page_count": 54,
+      "custom_reader": true
     },
     {
       "number": "2",
@@ -46,7 +47,8 @@
       "last_updated": 1787788759,
       "last_updated_display": "August 26, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL25ld3RvbndvZGFpdGEuanNvbg==/2/1/",
-      "page_count": 0
+      "page_count": 0,
+      "custom_reader": false
     },
     {
       "number": "3",
@@ -55,7 +57,8 @@
       "last_updated": 1790355656,
       "last_updated_display": "September 25, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL25ld3RvbndvZGFpdGEuanNvbg==/3/1/",
-      "page_count": 0
+      "page_count": 0,
+      "custom_reader": false
     },
     {
       "number": "4",
@@ -64,7 +67,8 @@
       "last_updated": 1795527303,
       "last_updated_display": "November 24, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL25ld3RvbndvZGFpdGEuanNvbg==/4/1/",
-      "page_count": 0
+      "page_count": 37,
+      "custom_reader": true
     },
     {
       "number": "4.5",
@@ -73,7 +77,8 @@
       "last_updated": 1795527369,
       "last_updated_display": "November 24, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL25ld3RvbndvZGFpdGEuanNvbg==/4.5/1/",
-      "page_count": 0
+      "page_count": 10,
+      "custom_reader": true
     }
   ],
   "mangadex_url": "https://mangadex.org/title/f61ae076-69e1-442d-83b7-1f0c5a515fdf",
@@ -92,5 +97,5 @@
   "latest_chapter_title": "",
   "last_updated": 1795527369,
   "last_updated_display": "November 24, 2026",
-  "mangadex_refreshed_at": 1795532685
+  "mangadex_refreshed_at": 1795535433
 }

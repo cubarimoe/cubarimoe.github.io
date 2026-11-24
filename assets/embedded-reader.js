@@ -2,7 +2,7 @@
 const params=new URLSearchParams(location.search);
 const id=params.get('id'), number=params.get('chapter');
 const area=document.querySelector('#readerArea'), status=document.querySelector('#readerStatus');
-const back=document.querySelector('#backToTitle'), external=document.querySelector('#openCubari');
+const back=document.querySelector('#backToTitle');
 function titleUrl(){return `title.html?id=${encodeURIComponent(id)}`}
 function safeCubariURL(value){try{const u=new URL(value);return u.origin==='https://cubari.moe'&&!u.username&&!u.password&&/^\/read\/[^/]+\/[^/]+\/[^/]+\/[^/]+\/?$/.test(u.pathname)?u:null}catch{return null}}
 async function openChapter(){
@@ -11,12 +11,15 @@ async function openChapter(){
   const r=await fetch(`data/titles/${encodeURIComponent(id)}.json`,{cache:'no-store'});if(!r.ok)throw new Error('Title not found.');
   const t=await r.json(),ch=(t.chapters||[]).find(c=>String(c.number)===number);
   if(!ch)throw new Error('Chapter not found.');
+  if(ch.custom_reader && params.get('embedded')!=='1'){
+    const next=new URL('cubari/reader.html',location.href);next.searchParams.set('id',id);next.searchParams.set('chapter',number);if(params.has('page'))next.searchParams.set('page',params.get('page'));location.href=next.href;return;
+  }
   const url=safeCubariURL(ch.cubari_url);if(!url)throw new Error('No valid Cubari reader link is available for this chapter.');
   const page=params.get('page');if(page&&/^[1-9]\d*$/.test(page)){url.pathname=url.pathname.replace(/\/[^/]+\/?$/,`/${page}/`)}
   back.textContent=t.title;document.title=`${t.title} — Chapter ${number}`;
-  external.href=url.href;external.hidden=false;
   const frame=document.createElement('iframe');frame.title=`Cubari reader: ${t.title}, Chapter ${number}`;
-  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-downloads allow-popups');
+  // Keep the original reader usable, but do not grant browser download permission.
+  frame.setAttribute('sandbox','allow-scripts allow-same-origin allow-forms allow-popups');
   frame.allow='fullscreen';frame.allowFullscreen=true;frame.referrerPolicy='strict-origin-when-cross-origin';
   frame.src=url.href;area.replaceChildren(frame);
 }

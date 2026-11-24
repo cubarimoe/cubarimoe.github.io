@@ -42,7 +42,8 @@
       "last_updated": 1748609401,
       "last_updated_display": "May 30, 2025",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL1RoZTY2NnRoR3JpbVJlYXBlci5qc29u/1/1/",
-      "page_count": 0
+      "page_count": 38,
+      "custom_reader": true
     }
   ],
   "mangadex_url": "https://mangadex.org/title/7bd1956a-aa96-49e8-ae51-ade03ba4bffe",
@@ -61,5 +62,5 @@
   "latest_chapter_title": "Oneshot",
   "last_updated": 1748609401,
   "last_updated_display": "May 30, 2025",
-  "mangadex_refreshed_at": 1795532687
+  "mangadex_refreshed_at": 1795535436
 }
