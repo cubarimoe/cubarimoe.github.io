@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790356402,
+  "generated_at": 1795528043,
   "site": {
     "eyebrow": "Manga Catalogue",
     "name": "TangPing Scanlations",
@@ -29,31 +29,31 @@
       "count": 17
     },
     {
+      "name": "Comedy",
+      "count": 12
+    },
+    {
       "name": "Adaptation",
       "count": 11
     },
     {
-      "name": "Comedy",
-      "count": 11
+      "name": "Adventure",
+      "count": 9
     },
     {
       "name": "Reincarnation",
       "count": 9
     },
     {
-      "name": "Adventure",
+      "name": "Action",
       "count": 8
     },
     {
-      "name": "Action",
-      "count": 7
+      "name": "Slice of Life",
+      "count": 6
     },
     {
       "name": "Magic",
-      "count": 5
-    },
-    {
-      "name": "Slice of Life",
       "count": 5
     },
     {
@@ -69,15 +69,23 @@
       "count": 3
     },
     {
+      "name": "Monsters",
+      "count": 3
+    },
+    {
       "name": "Historical",
       "count": 2
     },
     {
-      "name": "Monsters",
+      "name": "Monster Girls",
       "count": 2
     },
     {
       "name": "Oneshot",
+      "count": 2
+    },
+    {
+      "name": "Survival",
       "count": 2
     },
     {
@@ -105,15 +113,7 @@
       "count": 1
     },
     {
-      "name": "Monster Girls",
-      "count": 1
-    },
-    {
       "name": "Mystery",
-      "count": 1
-    },
-    {
-      "name": "Survival",
       "count": 1
     }
   ],
@@ -140,10 +140,10 @@
         "Fantasy"
       ],
       "status": "completed",
-      "chapter_count": 35,
-      "latest_chapter_number": "35",
-      "last_updated": 1790356141,
-      "last_updated_display": "September 25, 2026"
+      "chapter_count": 36,
+      "latest_chapter_number": "36",
+      "last_updated": 1795527783,
+      "last_updated_display": "November 24, 2026"
     },
     {
       "id": "0738e1721fecd61a",
@@ -168,10 +168,10 @@
         "Villainess"
       ],
       "status": "completed",
-      "chapter_count": 6,
-      "latest_chapter_number": "6",
-      "last_updated": 1790355891,
-      "last_updated_display": "September 25, 2026"
+      "chapter_count": 7,
+      "latest_chapter_number": "7",
+      "last_updated": 1795527590,
+      "last_updated_display": "November 24, 2026"
     },
     {
       "id": "9e29a0488c9e7bbb",
@@ -199,10 +199,10 @@
         "Adaptation"
       ],
       "status": "completed",
-      "chapter_count": 14,
-      "latest_chapter_number": "12",
-      "last_updated": 1790355789,
-      "last_updated_display": "September 25, 2026"
+      "chapter_count": 15,
+      "latest_chapter_number": "13",
+      "last_updated": 1795527504,
+      "last_updated_display": "November 24, 2026"
     },
     {
       "id": "785861f62af08764",
@@ -223,10 +223,10 @@
         "Drama"
       ],
       "status": "ongoing",
-      "chapter_count": 3,
-      "latest_chapter_number": "3",
-      "last_updated": 1790355656,
-      "last_updated_display": "September 25, 2026"
+      "chapter_count": 5,
+      "latest_chapter_number": "4.5",
+      "last_updated": 1795527369,
+      "last_updated_display": "November 24, 2026"
     },
     {
       "id": "fca0ba38cd1ebe1f",
@@ -250,10 +250,10 @@
         "Slice of Life"
       ],
       "status": "ongoing",
-      "chapter_count": 19,
-      "latest_chapter_number": "18",
-      "last_updated": 1790355488,
-      "last_updated_display": "September 25, 2026"
+      "chapter_count": 20,
+      "latest_chapter_number": "18.5",
+      "last_updated": 1795527079,
+      "last_updated_display": "November 24, 2026"
     },
     {
       "id": "e25e1bd743291100",
@@ -294,10 +294,10 @@
         "Adaptation"
       ],
       "status": "ongoing",
-      "chapter_count": 34,
-      "latest_chapter_number": "15.5",
-      "last_updated": 1790355358,
-      "last_updated_display": "September 25, 2026"
+      "chapter_count": 35,
+      "latest_chapter_number": "16",
+      "last_updated": 1795526949,
+      "last_updated_display": "November 24, 2026"
     },
     {
       "id": "2d5a4769744c7856",
@@ -509,7 +509,8 @@
       "title": "Yuusha ni Narenakatta Sanbaka Trio wa, Kyou mo Otoko Meshi wo Koshiraeru.",
       "original_title": "Yuusha ni Narenakatta Sanbaka Trio wa, Kyou mo Otoko Meshi wo Koshiraeru.",
       "alt_titles": [
-        "勇者になれなかった三馬鹿トリオは、今日も男飯を拵える。"
+        "勇者になれなかった三馬鹿トリオは、今日も男飯を拵える。",
+        "The Three Fools Who Failed To Become Heroes Are Once Again Preparing A Hearty Meal."
       ],
       "authors": [
         "Kuronuka"
@@ -519,12 +520,19 @@
       ],
       "cover": "assets/covers/7bcc4c35-1e34-4a4f-86e7-8e346b164c4c.jpg",
       "tags": [
+        "Monsters",
+        "Action",
+        "Comedy",
+        "Survival",
+        "Adventure",
         "Isekai",
         "Fantasy",
+        "Monster Girls",
+        "Slice of Life",
         "Cooking",
         "Adaptation"
       ],
-      "status": "completed",
+      "status": "cancelled",
       "chapter_count": 11,
       "latest_chapter_number": "10",
       "last_updated": 1748728485,
