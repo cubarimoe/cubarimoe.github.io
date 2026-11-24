@@ -1,5 +1,5 @@
 {
-  "generated_at": 1795528043,
+  "generated_at": 1795531930,
   "site": {
     "eyebrow": "Manga Catalogue",
     "name": "TangPing Scanlations",
@@ -17,7 +17,8 @@
     "max_card_tags": 12,
     "chapter_preview_rows": 2,
     "chapter_group_size": 50,
-    "show_imgchest_views": true
+    "show_imgchest_views": true,
+    "reader_type": "embedded"
   },
   "tags": [
     {
