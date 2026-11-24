@@ -44,13 +44,7 @@
       "last_updated": 1774433812,
       "last_updated_display": "March 25, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2tpbnRvcmVpam91Lmpzb24=/1/1/",
-      "imgchest_id": "ljyq6jqqk42",
-      "pages": [],
-      "page_count": 0,
-      "imgchest_views": 13,
-      "reader_available": false,
-      "reader_kind": "embedded",
-      "reader_needs_refresh": false
+      "page_count": 0
     },
     {
       "number": "2",
@@ -59,13 +53,7 @@
       "last_updated": 1777154715,
       "last_updated_display": "April 25, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2tpbnRvcmVpam91Lmpzb24=/2/1/",
-      "imgchest_id": "5xy2mzd8n7l",
-      "pages": [],
-      "page_count": 0,
-      "imgchest_views": 13,
-      "reader_available": false,
-      "reader_kind": "embedded",
-      "reader_needs_refresh": false
+      "page_count": 0
     },
     {
       "number": "3",
@@ -74,13 +62,7 @@
       "last_updated": 1779314742,
       "last_updated_display": "May 20, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2tpbnRvcmVpam91Lmpzb24=/3/1/",
-      "imgchest_id": "wl7ldqwo3yx",
-      "pages": [],
-      "page_count": 0,
-      "imgchest_views": 11,
-      "reader_available": false,
-      "reader_kind": "embedded",
-      "reader_needs_refresh": false
+      "page_count": 0
     },
     {
       "number": "4",
@@ -89,13 +71,7 @@
       "last_updated": 1784486572,
       "last_updated_display": "July 19, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2tpbnRvcmVpam91Lmpzb24=/4/1/",
-      "imgchest_id": "dl7ppb2587o",
-      "pages": [],
-      "page_count": 0,
-      "imgchest_views": 15,
-      "reader_available": false,
-      "reader_kind": "embedded",
-      "reader_needs_refresh": false
+      "page_count": 0
     },
     {
       "number": "5",
@@ -104,13 +80,7 @@
       "last_updated": 1787789116,
       "last_updated_display": "August 27, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2tpbnRvcmVpam91Lmpzb24=/5/1/",
-      "imgchest_id": "qe4gb53oj7j",
-      "pages": [],
-      "page_count": 0,
-      "imgchest_views": 7,
-      "reader_available": false,
-      "reader_kind": "embedded",
-      "reader_needs_refresh": false
+      "page_count": 0
     },
     {
       "number": "6",
@@ -119,13 +89,7 @@
       "last_updated": 1790355891,
       "last_updated_display": "September 25, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2tpbnRvcmVpam91Lmpzb24=/6/1/",
-      "imgchest_id": "n87w3wgozyx",
-      "pages": [],
-      "page_count": 0,
-      "imgchest_views": 5,
-      "reader_available": false,
-      "reader_kind": "embedded",
-      "reader_needs_refresh": false
+      "page_count": 0
     },
     {
       "number": "7",
@@ -134,13 +98,7 @@
       "last_updated": 1795527590,
       "last_updated_display": "November 24, 2026",
       "cubari_url": "https://cubari.moe/read/gist/cmF3L2N1YmFyaS1tb2UvcGV0cHJvamVjdC9tYWluL2tpbnRvcmVpam91Lmpzb24=/7/1/",
-      "imgchest_id": "9rydvm8wnyk",
-      "pages": [],
-      "page_count": 0,
-      "imgchest_views": 2,
-      "reader_available": false,
-      "reader_kind": "embedded",
-      "reader_needs_refresh": false
+      "page_count": 0
     }
   ],
   "mangadex_url": "https://mangadex.org/title/7e2b77cb-5bd6-41d7-a68f-432e050e0acb",
@@ -159,5 +117,5 @@
   "latest_chapter_title": "",
   "last_updated": 1795527590,
   "last_updated_display": "November 24, 2026",
-  "mangadex_refreshed_at": 1795528038
+  "mangadex_refreshed_at": 1795532684
 }

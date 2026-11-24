@@ -14,7 +14,5 @@
   "tag_match_mode": "any",
   "max_card_tags": 12,
   "chapter_preview_rows": 2,
-  "chapter_group_size": 50,
-  "show_imgchest_views": true,
-  "reader_type": "embedded"
+  "chapter_group_size": 50
 }
