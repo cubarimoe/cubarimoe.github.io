@@ -108,7 +108,7 @@ function ReaderAPI(o) {
 	}
 
 	this.requestSeries = function(slug) {
-		this.seriesRequest = fetch(this.seriesUrl + encodeURIComponent(slug) + '.json').then(r => { if(!r.ok) throw Error('Reader data unavailable'); return r; })
+		this.seriesRequest = fetch(this.seriesUrl + encodeURIComponent(slug) + '.json', {cache:'no-store'}).then(r => { if(!r.ok) throw Error('Reader data unavailable'); return r; })
 			.then(response => response.json())
 			.then(seriesData => {
 				seriesData = this.infuseSeriesData(seriesData);

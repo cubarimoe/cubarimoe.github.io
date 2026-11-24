@@ -1,1 +1,3 @@
 2026-11-24: adapted original Cubari reader for static GitHub Pages manifests, catalogue navigation, removed download action and About category; local reading history adapter. No upstream backend or tracking needed. Original upstream source included in corresponding-source.zip.
+
+2026-11-24: fetch static chapter manifests without browser HTTP-cache reuse to reflect republished album edits.
